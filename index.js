@@ -1,5 +1,5 @@
 let apiQuotes = [];
-
+ 
 //Show new Quote
 //generate random quote 
 
